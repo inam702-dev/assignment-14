@@ -37,8 +37,12 @@ const About = () => {
                 </span>
               </p>
             </div>
-            <div className=" mt-16 border rounded-md w-150 max-h-20">
-              <img className="border rounded-md" src="assets\real-estate-agent-meeting-office.jpg" alt="Office pic" />
+            <div className=" mt-16 w-150 ">
+              <img
+                className="border rounded-md"
+                src="\office.jpg"
+                alt="Office pic"
+              />
             </div>
           </div>
           <div className="bg-slate-900 w-full py-12 mt-8">
