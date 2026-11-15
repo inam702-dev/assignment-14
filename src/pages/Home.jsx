@@ -5,11 +5,11 @@ const Home = () => {
     <>
       <section id="home">
         <div className="flex flex-col items-start justify-start w-full pt-48 pb-52 px-40  border-amber-500 border-b-4">
-          <div className=" text-mist-300 text-[70px] font-bold leading-[1.1]">
+          <div className=" text-mist-100 text-[70px] font-bold leading-[1.1]">
             <p> Unlock Your Financial Potential.</p>{" "}
-            <p className="text-amber-200">Expert Guidance.</p>{" "}
+            <p className="text-amber-300">Expert Guidance.</p>{" "}
           </div>
-          <p className=" text-mist-400 text-lg mt-6 mr-60">
+          <p className=" text-mist-300 text-lg mt-6 mr-60">
             Independent financial advice for a brighter future — from retirement
             planning to investments. Smart financial planning, strategic
             investments, and lasting protection for you and your family.
