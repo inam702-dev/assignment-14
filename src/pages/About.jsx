@@ -38,9 +38,9 @@ const About = () => {
               </p>
             </div>
             <div className=" mt-16 w-150 ">
-              <img
+              <img fetchPriority="high"
                 className="border rounded-md"
-                src="\office.jpg"
+                src="\office.webp"
                 alt="Office pic"
               />
             </div>
